@@ -4,7 +4,7 @@
 
 - 💡 **Lightweight**<br>
 - ⚙️ **Configurable**<br>
-- 🛠️ **Debug Mode** for fine-tuning I/O streams<br>
+- 🛠️ **Debug Mode** for fine-tuning<br>
 - 📝 **Log Files**<br>
 - 🔄 **I/O Streams per Second and Minute**<br>
 - 🧮 **Entropy Calculation**<br>
