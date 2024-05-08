@@ -7,7 +7,7 @@ Adrenaline RX intervenes after the ransomware has started encrypting your hard d
 - ⚙️ **Configurable**<br>
 - 🛠️ **Debug Mode** for fine-tuning<br>
 - 📝 **Log Files**<br>
-- 🔄 **I/O Streams per Second and Minute**<br>
+- 🔄 **Filesystem Activity Rates per Second and Minute**<br>
 - 🧮 **Entropy Calculation**<br>
 - 🧾 **Magic Byte and Extension**<br>
 - 🔊 **Receive Immediate Notifications via Sound Alarms**<br>
