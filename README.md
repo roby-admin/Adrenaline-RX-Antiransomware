@@ -15,5 +15,10 @@ Adrenaline RX intervenes after the ransomware has started encrypting your hard d
 - 💻 **Written in C++**<br>
 <br>
 
+## Screenshot
 ![image](https://github.com/roby-admin/Adrenaline-RX-Antiransomware/assets/54857521/8e498599-dc71-46ed-a684-884e81cce3a7)
+<br>
+## Work scheme
+![A_RX (1)](https://github.com/roby-admin/Adrenaline-RX-Antiransomware/assets/54857521/4e3ef392-8027-4aca-99de-42ca07e13556)
+
 
