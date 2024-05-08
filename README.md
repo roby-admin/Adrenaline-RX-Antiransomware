@@ -1,4 +1,5 @@
 # Adrenaline-RX-Antiransomware
+Adrenaline RX intervenes after the ransomware has started encrypting your hard drive, which means that the ransomware has managed to bypass traditional security measures.
 
 ## Download Latest Release
 
