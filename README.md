@@ -16,7 +16,7 @@ Adrenaline RX intervenes after the ransomware has started encrypting your hard d
 <br>
 ## Installer
 <br>
-[Download](https://github.com/roby-admin/Adrenaline-RX-Antiransomware/blob/main/windows/latest/Adrenaline_Installer_64bit_Win.zip)
+https://github.com/roby-admin/Adrenaline-RX-Antiransomware/blob/main/windows/latest/Adrenaline_Installer_64bit_Win.zip
 
 ## Screenshot
 ![image](https://github.com/roby-admin/Adrenaline-RX-Antiransomware/assets/54857521/8e498599-dc71-46ed-a684-884e81cce3a7)
