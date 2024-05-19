@@ -1,3 +1,6 @@
+# Project Moved to: wcsf-rd/anti-ransomware
+
+
 # Antiransomware / FileMonitor
 Adrenaline RX intervenes after the ransomware has started encrypting your hard drive, which means that the ransomware has managed to bypass traditional security measures.
 
